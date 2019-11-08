@@ -1,0 +1,264 @@
+body {
+	margin: 0px; color: rgb(129, 129, 129); font-family: Arial, Helvetica, sans-serif; font-size: 13px; background-color: rgb(242, 242, 242);
+}
+.slogan {
+	text-align: center; color: rgb(0, 0, 0); font-family: "Trebuchet MS"; font-size: 18px; font-style: italic;
+}
+h1 {
+	color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 24px;
+}
+a {
+	color: rgb(0, 0, 0);
+        text-decoration: none;
+}
+a:hover {
+	
+        font-size: 14px;
+        color: #ff0000; 
+}
+
+
+p
+{
+  padding-left: 20px;
+  text-align: justify; 
+
+
+}
+
+
+.tablewidth {
+	width: 980px; margin-right: auto; margin-left: auto;
+}
+.bannerbackground {
+	margin: 0px; background-color: rgb(255, 255, 255);
+}
+.banner2 {
+	margin: 0px; padding: 10px; border-radius: 0px 0px 18px 18px; height: 100px; background-color: rgb(122, 165, 182);
+}
+.bannerthin {
+	padding: 0px; border-radius: 0px 0px 18px 18px; height: 45px; background-color: rgb(122, 165, 182);
+}
+.nav1background {
+	text-align: right;
+}
+.nav1active {
+	padding: 25px 30px 20px; border-radius: 18px 18px 0px 0px; height: 56px; color: rgb(255, 255, 255); line-height: 56px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-decoration: none; margin-right: 1px; margin-left: 1px; background-color: rgb(122, 165, 182);
+}
+.nav1 {
+	padding: 25px 30px 20px; border-radius: 18px 18px 0px 0px; height: 56px; color: rgb(0, 0, 0); line-height: 56px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-decoration: none; margin-right: 1px; margin-left: 1px; background-color: rgb(242, 242, 242);
+}
+.nav1:hover {
+	color: rgb(255, 255, 255); background-color: rgb(122, 165, 182);
+}
+.nav2active {
+	padding: 3px; color: rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-decoration: none; display: block; background-color: rgb(122, 165, 182);
+}
+.nav2 {
+	padding: 3px; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-decoration: none; display: block; background-color: rgb(242, 242, 242);
+}
+.nav2:hover {
+	color: rgb(255, 255, 255); background-color: rgb(122, 165, 182);
+}
+.contentbackground {
+	margin: 0px; background-color: rgb(242, 242, 242);
+}
+.content2bk {
+	margin: 0px; border-top-color: rgb(122, 165, 182); border-top-width: 1px; border-top-style: dashed;
+}
+.content3bk {
+	margin: 0px; border-top-color: rgb(122, 165, 182); border-right-color: rgb(122, 165, 182); border-left-color: rgb(122, 165, 182); border-top-width: 1px; border-right-width: 1px; border-left-width: 1px; border-top-style: dashed; border-right-style: dashed; border-left-style: dashed;
+}
+.content4bk {
+	margin: 0px; border-top-color: rgb(122, 165, 182); border-top-width: 1px; border-top-style: dashed;
+}
+.contentleft {
+	margin: 0px; width: 200px; border-right-color: rgb(122, 165, 182); border-right-width: 1px; border-right-style: solid;
+}
+.contentright {
+	margin: 0px; width: 200px; border-left-color: rgb(122, 165, 182); border-left-width: 1px; border-left-style: solid;
+}
+.bottom {
+	margin: 0px; height: 100px; background-color: rgb(230, 230, 230);
+}
+.copyright {
+	height: 100px; font-family: "Arial Unicode MS"; font-size: 10px; background-color: rgb(69, 69, 69);
+}
+
+
+
+.bkwhite
+{
+  background:#ffffff;
+
+}
+.title
+{
+font-size: 20px;
+color: #480000;
+font-family: verdana;
+padding-left: 10px;
+
+}
+.tab
+{
+
+padding-top:10px;
+border: 1px solid #C4C0C0;
+width:500px;
+background-color:#ffffff;
+}
+.labels
+{
+font-size: 12px;
+color: #480000;
+font-family: verdana;
+padding-left: 10px;
+}
+.textbox
+{
+height:28px;
+width:263px;
+border: 1px solid #1C5792;
+}
+.buttons
+{
+color: #ffffff; 
+background-color: #4CAF50;
+font-size: 20px;
+border-radius: 12px;
+font-family:verdana;
+}
+.textbox1
+{
+height:28px;
+width:80px;
+border: 1px solid #1C5792;
+}
+#border_bottom
+{
+border-bottom: 1px dashed #d0d0d0;
+}
+
+.textarea
+{
+border: 1px solid #1C5792;
+width: 300px;
+height: 150px;
+
+}
+.module
+{
+border: 1px solid #d0d0d0;
+}
+
+.msg
+{
+color: #ff0000;
+font-size: 11px;
+font-family: Verdana;
+}
+
+.capcha
+{
+height: 34px;
+width: 80px;
+}
+
+.tbl
+{
+   border: 1px solid #d0d0d0;
+   color: #480000;
+   font-family:Verdana;
+   font-size: 13px;
+   text-align: left;
+   
+
+}
+
+
+.border_grn
+{
+
+border-bottom: 1px solid #696969;
+}
+
+.border_btm
+{
+ border-bottom: 1px dashed #d0d0d0;
+}
+
+.mod
+{
+
+font-size: 12px;
+color: #480000;
+border-bottom: 1px dashed #d0d0d0;
+font-family: verdana;
+}
+
+.regtab
+{
+
+padding-top:10px;
+border: 1px solid #C4C0C0;
+background-color:#ffffff;
+}
+
+.textarea1
+{
+border: 1px solid #1C5792;
+width: 700px;
+height: 100px;
+}
+
+
+
+.regdrop
+{
+height:32px;
+width:264px;
+border: 1px solid #1C5792;
+}
+
+
+.pic
+{
+
+color :#480000;
+width:258px;
+border: 1px solid #1C5792;
+}
+
+
+
+.viewtbl
+{
+
+padding-top:10px;
+border: 1px solid #C4C0C0;
+background-color :#ffffff;
+}
+
+
+.regdrop2
+{
+height:30px;
+width:80px;
+border: 1px solid #1C5792;
+
+}
+
+
+.labels2
+{
+font-size: 13px;
+color: #480000;
+font-family: verdana;
+padding-left: 10px;
+}
+
+#border_left
+{
+border-left: 1px dashed #d0d0d0;
+}
